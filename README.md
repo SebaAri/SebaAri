@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @SebaAri
-- 👀 I’m interested in Data Science | Programming
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Ariel 👋
 
-<!---
-SebaAri/SebaAri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Data Science & Programming student
+
+## Skills
+- Python
+- Data Analysis
+- Git & GitHub
+
+## Projects
+Coming soon...
