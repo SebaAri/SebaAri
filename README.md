@@ -4,6 +4,8 @@
 
 ## Skills
 - Python
+- HTML
+- CSS
 - Data Analysis
 - Git & GitHub
 
