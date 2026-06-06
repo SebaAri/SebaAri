@@ -4,6 +4,7 @@
 
 ## Skills
 - Python
+- SQL
 - HTML
 - CSS
 - Data Analysis
