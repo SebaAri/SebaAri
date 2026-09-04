@@ -3,7 +3,8 @@
 💻 Data Science & Programming student
 
 ## Skills
-- Python
+- Python 
+- Java
 - SQL
 - HTML
 - CSS
